@@ -12,6 +12,7 @@ public class MemoryMemberRepositoryTest {
 
     MemoryMemberRepository repository = new MemoryMemberRepository();
 
+
     // 아래의 메서드들이 끝날 때마다 하는 동작
     @AfterEach
     public void afterEach() {
